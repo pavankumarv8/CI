@@ -1,0 +1,3 @@
+/home/vagrant/mvnexbook-examples-1.0/ch-multi-spring/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/WeatherService.java
+/home/vagrant/mvnexbook-examples-1.0/ch-multi-spring/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooRetriever.java
+/home/vagrant/mvnexbook-examples-1.0/ch-multi-spring/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooParser.java
